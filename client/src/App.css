@@ -27,6 +27,10 @@
   to { transform: rotate(360deg); }
 }
 
-div, button {
+div, input {
   margin: 15px;
+}
+
+button {
+  margin: 5px;
 }
